@@ -1,0 +1,30 @@
+{
+  "name": "mindsize/ms-wc-add-to-cart-form-cache",
+  "description": "Sample plugin for showing how caching of variable product add to cart forms in WC can be achieved.",
+  "homepage": "http://github.com/Mindsize/ms-wc-add-to-cart-form-cache",
+  "keywords": [
+    "wordpress",
+    "woocommerce",
+    "cache"
+  ],
+  "authors": [
+    {
+      "name": "Mindsize",
+      "email": "info@mindsize.me",
+      "homepage": "http://mindsize.me",
+      "role": "Developer"
+    },
+    {
+      "name": "Patrick Garman",
+      "email": "patrick@mindsize.me",
+      "homepage": "http://mindsize.me",
+      "role": "Developer"
+    }
+  ],
+  "license": "GPL-2.0",
+  "version": "1.0.0",
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "^1"
+  }
+}
