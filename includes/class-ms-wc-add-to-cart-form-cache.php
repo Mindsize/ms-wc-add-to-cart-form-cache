@@ -32,7 +32,7 @@ if( class_exists( 'MS_WC_Add_To_Cart_Form_Cache' ) ) {
  *
  * @since 1.0.0
  */
-class MS_WC_Add_To_Cart_Form_Cache extends WP_HTML_Fragment_Cache {
+class MS_WC_Add_To_Cart_Form_Cache extends WP_Fragment_HTML_Cache {
 
 	/**
 	 * The slug of the fragment cache prefixes all hooks and is sanitized to create the default cache directory.
